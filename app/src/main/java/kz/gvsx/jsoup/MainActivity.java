@@ -2,7 +2,6 @@ package kz.gvsx.jsoup;
 
 import android.os.Bundle;
 import android.text.Spanned;
-import android.text.util.Linkify;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
